@@ -1,0 +1,163 @@
+<!-- Parte 1 -->
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 1 basico</title>
+</head>
+<body>
+<main>
+<header><h1>Pagina de prueba</h1></header>
+<h2>Textos</h2>
+  <p> <strong><i>Un texto es una composición de signos codificados en un sistema de escritura que forma una unidad de sentido.</i></strong> También es una composición de caracteres imprimibles (con grafema) generados por un algoritmo de cifrado que, aunque no tienen sentido para cualquier persona, sí puede ser descifrado por su destinatario original. En otras palabras, un texto es un entramado de signos con una intención comunicativa que adquiere sentido en determinado contexto. </p>
+
+   <p> <strong><i>Las ideas que comunica un texto están contenidas en lo que se suele denominar «macroproposiciones», unidades estructurales de nivel superior o   global, que otorgan coherencia al texto constituyendo su hilo central.</i></strong> El esqueleto estructural que cohesiona elementos lingüísticos formales de   alto nivel, como los títulos y subtítulos, la secuencia de párrafos, etc. En contraste, las «microproposiciones» son los elementos coadyuvantes de la cohesión de un texto, pero a nivel más particular o local. Esta distinción fue realizada por Teun van Dijk en <strong>1980.</strong></p>
+
+<ul>
+<li>Hola</li>
+<li>Hola</li>
+<li>Hola</li>
+<ul>
+
+<figure>img=src""</figure>
+</main>
+</body>
+</html>
+
+<!-- Parte 2 -->
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <title>Parte 2 </title>
+</head>
+<body>
+   <h2> id="Wikipedia" Wikipedia</h2>
+     <a href="https://es.wikipedia.org/wiki/Texto" target="_blank">wikipedia</a></a>
+   <h2> id="Youtube" Youtube</h2>
+     <a href="https://www.youtube.com/" target="_blank">Youtube</a>
+    <h2> id= "ChatGPT"ChatGPT</h2>
+      <a href="https://openai.com/" target="_blank">ChatGPT</a>
+<ul>
+  <li><a href="Wikipedia">Inicio</li>
+  <li><a href="Youtube">Desarrollo</li>
+  <li><a href="ChatGPT">Conclusion</li>
+
+</ul>
+ 
+<a href= https://www.hola.com/ domwlodad>Descarga</a>
+<a href="david@gmail.com" mailito>Correo</a>
+
+</body>
+
+<!-- Parte 3 -->
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 1 basico</title>
+</head>
+<body>
+<main>
+<ul>
+ <li><a href="Imagenes/Imagen de un gato.jpg">Imagend de gato</li>
+ <li><a href="Imagenes/Imagen de un Perro.jpg">Imagen de un perro</li>
+ <li><a href="Imagenes/Imagen de un Pollo.jpg">Imagen de un Pollo</li>
+</ul>
+
+
+
+
+</main>
+<!-- Primer pagina -->
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <title>Parte 3</title>
+</head>
+<body>
+<main>
+   <nav>
+    Inicio 
+  </nav>
+<ul>
+  <li>Volver</li>
+  <li>Comenzar</li>
+  <li>Agregar</li>
+</ul>
+ 
+</main>
+
+
+
+
+<!-- Segunda Pagina -->
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 1 basico</title>
+</head>
+<body>
+<main>
+   <nav>
+    Acerca De 
+  </nav>
+<ul>
+  <li>Volver</li>
+  <li>Comenzar</li>
+  <li>Agregar</li>
+</ul>
+</main>
+
+
+
+
+
+
+<!-- Tecera pagina -->
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 1 basico</title>
+</head>
+<body>
+<main>
+   <nav>
+    Servicio
+  </nav>
+<ul>
+  <li>Volver</li>
+  <li>Comenzar</li>
+  <li>Agregar</li>
+</ul>
+<a heref= Imagenes/Servicio.png>Servicio<a>
+</main>
+
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 1 basico</title>
+</head>
+<body>
+<main>
+   <nav>
+    Contacto 
+  </nav>
+<ul>
+  <li>Volver</li>
+  <li>Comenzar</li>
+  <li>Agregar</li>
+</ul>
+<a heref= Imagenes/Contacto.png>Contacto<a/>
+</main>
+
+
+
+
+
+
+
